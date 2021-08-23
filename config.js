@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Em có muốn nói gì với anh khongg?',
     btnReply: 'Gửi <3',
     reply: 'Em yêu anh <3',
-    mess: 'Đáng yêu quá chời quá đất ^^',
+    mess: 'Đáng yêu quá chời quá đất ^.^',
     messDesc: 'Mãi luôn bên nhau nhé <3',
     btnAccept: 'Okiiiii lun nhé <3',
     messLink: 'https://www.facebook.com/subi.2404'
